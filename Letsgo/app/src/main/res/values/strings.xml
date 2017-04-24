@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lets go</string>
+    <string name="title_activity_main2">Your rides</string>
+    <string name="title3activity">Offer a ride</string>
+    <string name="title4activity">Find a ride</string>
+    <string name="title5activity">Help</string>
+    <string-array name="from">
+        <item> </item>
+        <item>VadaValli</item>
+        <item>Ganapathy</item>
+        <item>Karmathampati</item>
+        <item>Avinashi</item>
+        <item>Pollachi</item>
+        <item>Vellalore</item>
+        <item>Ganthipuram</item>
+        <item>Ukadam</item>
+    </string-array>
+    <string-array name="to">
+        <item> </item>
+        <item>VadaValli</item>
+        <item>Ganapathy</item>
+        <item>Karmathampati</item>
+        <item>Avinashi</item>
+        <item>Pollachi</item>
+        <item>Vellalore</item>
+        <item>Ganthipuram</item>
+        <item>Ukadam</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/road"
+            android:title="Your rides" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/search128"
+            android:title="Find a ride" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/add"
+            android:title="Offer a ride" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/help128"
+            android:title="Help" />
+       </group>
+
+
+
+</menu>
